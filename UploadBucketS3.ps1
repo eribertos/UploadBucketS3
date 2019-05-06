@@ -3,6 +3,7 @@
 ### Script para fazer upload de arquivos
 ### 2019050601
 
+Install-Module -Name AWSPowerShell
 
 #Carregando Extensao AWS Powershell 
 import-module "C:\Program Files (x86)\AWS Tools\PowerShell\AWSPowerShell\AWSPowerShell.psd1"
